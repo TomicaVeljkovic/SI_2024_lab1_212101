@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\SI_2024_lab1_212101>git log
+commit c6639362d8267adca9e177d62b573577b3d9f758 (HEAD -> master, origin/master)
+Merge: 694c73c 8aea761
+Author: TomicaVeljkovic <167016182+TomicaVeljkovic@users.noreply.github.com>
+Date:   Sun Apr 14 19:54:16 2024 +0200
+
+    Merge pull request #2 from TomicaVeljkovic/bug2
+
+    Bug2
+
+commit 8aea761e7b55442719c4265609002816b10ff2b4 (origin/bug2, bug2)
+Merge: b3d82dd 694c73c
+Author: Tomica Veljkovic <tomica.veljkovik.03@gmail.com>
+Date:   Sun Apr 14 19:53:47 2024 +0200
+
+    Resolve conflicts
+
+commit 694c73ca2ed509a35c296ce6c0cb301c47d20682
+Merge: 7942cd2 7376d13
+Author: TomicaVeljkovic <167016182+TomicaVeljkovic@users.noreply.github.com>
+Date:   Sun Apr 14 19:38:14 2024 +0200
+
+    Merge pull request #1 from TomicaVeljkovic/bug1
+
+    Bug1
+
+commit b3d82dd4226e896d282dcc68bb15a8a0bb67b880
+Author: Tomica Veljkovic <tomica.veljkovik.03@gmail.com>
+Date:   Sun Apr 14 19:33:38 2024 +0200
+
+:

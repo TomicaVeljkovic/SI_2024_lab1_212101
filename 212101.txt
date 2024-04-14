@@ -1,0 +1,24 @@
+1.git init - иницијализација на Git во директориумот
+2.git add . - додавање на направените промени во контрола на верзии
+3.git push - испраќање на промените на GitHub
+4.git checkout -b "bug1" - креирање гранка "bug1"
+5.git branch - проверка на кој гранка се наоѓате
+6.git checkout master - префрлување на таа гранка
+7.git checkout -b "bug2" - креирање гранка "bug2"
+8.git checkout bug1, направени промени во SILab1_1, git status, git add ., git commit -m ".."
+9.git checkout bug2, направени промени во SILab1_2, git status, git add ., git commit -m ".."
+10.git checkout bug1, направени промени во SILab1Main
+11.git checkout bug2, направени промени во SiLab1Main
+12.git checkout master bug1, git push origin bug1
+13.Спојување на master
+14.git checkout master, git pull
+15.git checkout bug2, git merge master
+16Решавање на конфликти
+17.git push origin bug2
+18.Спојување со master remote репозиториумот
+19.git checkout master, git pull
+
+
+
+
+
